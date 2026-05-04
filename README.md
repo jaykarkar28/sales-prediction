@@ -1,3 +1,8 @@
+# Name : Jay Karkar
+# Mobile No. : 9726907617
+
+
+
 # Sales Prediction System
 
 This project is a Machine Learning web application that predicts product sales demand based on its visual design and price. It extracts historical sales data from a PDF, processes product images using AI, and uses a Random Forest model to forecast future sales.
