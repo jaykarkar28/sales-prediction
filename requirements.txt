@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+pillow
+pdfplumber
+joblib
+streamlit
